@@ -1,0 +1,14 @@
+/* creazione header con logo  */
+.header-sfondo{
+    background-color: rgb(0, 160, 255);
+    background-image: url("img/pattern.png");
+    height: 100px;
+    background-size: 50%;
+    background-repeat: repeat-x;
+
+}
+
+.logo{
+    width: 250px;
+}
+
