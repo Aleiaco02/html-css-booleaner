@@ -1,3 +1,8 @@
+*{
+    margin: auto 0;
+}
+
+
 /* spazio tra destra e sinistra e centramento pagina */
 main, footer{
     margin-left: 100px;
@@ -100,7 +105,7 @@ h4{
     position: absolute;
     color: aliceblue;
     font-size: 24px;
-    top: 1573px;
+    top: 1505px;
     left: 159px;
 }
 
@@ -109,6 +114,6 @@ h4{
     position: absolute;
     color: aliceblue;
     font-size: 24px;
-    top: 1803px;
+    top: 1750px;
     left: 159px;
 }
